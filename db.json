@@ -1,0 +1,361 @@
+{
+  "closedS": [
+    {
+      "message": "successfully Requested",
+      "detail": [
+        {
+          "senderClient": {
+            "firstName": "Tom",
+            "middleName": "Yem",
+            "lastName": "TY",
+            "address": {
+              "country": "Eritrea",
+              "state": "string",
+              "city": "string",
+              "phone": "string"
+            },
+            "remark": "string"
+          },
+          "receiverClient": {
+            "firstName": "string",
+            "middleName": "string",
+            "lastName": "string",
+            "address": {
+              "country": "string",
+              "state": "string",
+              "city": "string",
+              "phone": "string"
+            },
+            "accountNumber": 0,
+            "bankName": "string",
+            "remark": "string"
+          },
+          "moneyToTransfer": {
+            "currency": {
+              "currencyName": "Dollar",
+              "shortName": "USD",
+              "country": "string"
+            },
+            "amount": 0
+          },
+          "moneyToPay": {
+            "currency": {
+              "currencyName": "Dollar",
+              "shortName": "USD",
+              "country": "string"
+            },
+            "amount": 0
+          },
+          "totalPayment": {
+            "currency": {
+              "currencyName": "Dollar",
+              "shortName": "USD",
+              "country": "string"
+            },
+            "amount": 0
+          },
+          "remark": "string",
+          "status": 0,
+          "createdAt": "2020-09-18T15:46:57.029Z",
+          "senderAgent": {
+            "firstName": "string",
+            "middleName": "string",
+            "lastName": "string",
+            "dob": "2020-09-18T15:46:57.029Z",
+            "gender": "MALE",
+            "address": {
+              "country": "string",
+              "state": "string",
+              "city": "string",
+              "phone": "string"
+            },
+            "login": {
+              "email": "user@example.com",
+              "password": "string",
+              "userType": "STAFF",
+              "roles": "ADMIN",
+              "isActive": true,
+              "isVerified": true,
+              "isOnHold": false
+            },
+            "senderMaxCriticalAmount": {
+              "currency": {
+                "currencyName": "Dollar",
+                "shortName": "USD",
+                "country": "string"
+              },
+              "amount": 0
+            },
+            "receiverMInCriticalAmount": {
+              "currency": {
+                "currencyName": "Dollar",
+                "shortName": "USD",
+                "country": "string"
+              },
+              "amount": 0
+            },
+            "receiverSalaryPerTransaction": {
+              "currency": {
+                "currencyName": "Dollar",
+                "shortName": "USD",
+                "country": "string"
+              },
+              "amount": 0
+            },
+            "senderExchangeRate": [
+              {
+                "fromCurrency": {
+                  "currencyName": "Dollar",
+                  "shortName": "USD",
+                  "country": "string"
+                },
+                "toCurrency": {
+                  "currencyName": "Dollar",
+                  "shortName": "USD",
+                  "country": "string"
+                },
+                "rate": 0
+              }
+            ],
+            "senderCommissionRate": [
+              {
+                "currency": {
+                  "currencyName": "Dollar",
+                  "shortName": "USD",
+                  "country": "string"
+                },
+                "rate": 0
+              }
+            ]
+          },
+          "receiverAgent": {
+            "firstName": "string",
+            "middleName": "string",
+            "lastName": "string",
+            "dob": "2020-09-18T15:46:57.029Z",
+            "gender": "MALE",
+            "address": {
+              "country": "string",
+              "state": "string",
+              "city": "string",
+              "phone": "string"
+            },
+            "login": {
+              "email": "user@example.com",
+              "password": "string",
+              "userType": "STAFF",
+              "roles": "ADMIN",
+              "isActive": true,
+              "isVerified": true,
+              "isOnHold": false
+            },
+            "senderMaxCriticalAmount": {
+              "currency": {
+                "currencyName": "Dollar",
+                "shortName": "USD",
+                "country": "string"
+              },
+              "amount": 0
+            },
+            "receiverMInCriticalAmount": {
+              "currency": {
+                "currencyName": "Dollar",
+                "shortName": "USD",
+                "country": "string"
+              },
+              "amount": 0
+            },
+            "receiverSalaryPerTransaction": {
+              "currency": {
+                "currencyName": "Dollar",
+                "shortName": "USD",
+                "country": "string"
+              },
+              "amount": 0
+            },
+            "senderExchangeRate": [
+              {
+                "fromCurrency": {
+                  "currencyName": "Dollar",
+                  "shortName": "USD",
+                  "country": "string"
+                },
+                "toCurrency": {
+                  "currencyName": "Dollar",
+                  "shortName": "USD",
+                  "country": "string"
+                },
+                "rate": 0
+              }
+            ],
+            "senderCommissionRate": [
+              {
+                "currency": {
+                  "currencyName": "Dollar",
+                  "shortName": "USD",
+                  "country": "string"
+                },
+                "rate": 0
+              }
+            ]
+          },
+          "admin": {
+            "firstName": "string",
+            "middleName": "string",
+            "lastName": "string",
+            "dob": "2020-09-18T15:46:57.029Z",
+            "gender": "MALE",
+            "address": {
+              "country": "string",
+              "state": "string",
+              "city": "string",
+              "phone": "string"
+            },
+            "login": {
+              "email": "user@example.com",
+              "password": "string",
+              "userType": "STAFF",
+              "roles": "ADMIN",
+              "isActive": true,
+              "isVerified": true,
+              "isOnHold": false
+            },
+            "senderMaxCriticalAmount": {
+              "currency": {
+                "currencyName": "Dollar",
+                "shortName": "USD",
+                "country": "string"
+              },
+              "amount": 0
+            },
+            "receiverMInCriticalAmount": {
+              "currency": {
+                "currencyName": "Dollar",
+                "shortName": "USD",
+                "country": "string"
+              },
+              "amount": 0
+            },
+            "receiverSalaryPerTransaction": {
+              "currency": {
+                "currencyName": "Dollar",
+                "shortName": "USD",
+                "country": "string"
+              },
+              "amount": 0
+            },
+            "senderExchangeRate": [
+              {
+                "fromCurrency": {
+                  "currencyName": "Dollar",
+                  "shortName": "USD",
+                  "country": "string"
+                },
+                "toCurrency": {
+                  "currencyName": "Dollar",
+                  "shortName": "USD",
+                  "country": "string"
+                },
+                "rate": 0
+              }
+            ],
+            "senderCommissionRate": [
+              {
+                "currency": {
+                  "currencyName": "Dollar",
+                  "shortName": "USD",
+                  "country": "string"
+                },
+                "rate": 0
+              }
+            ]
+          },
+          "commissionRate": 0,
+          "exchangeRate": 0,
+          "isDelivered": true,
+          "isCanceled": false,
+          "isEdited": false,
+          "actions": [
+            {
+              "_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+              "actor": {
+                "firstName": "string",
+                "middleName": "string",
+                "lastName": "string",
+                "dob": "2020-09-18T15:46:57.029Z",
+                "gender": "MALE",
+                "address": {
+                  "country": "string",
+                  "state": "string",
+                  "city": "string",
+                  "phone": "string"
+                },
+                "login": {
+                  "email": "user@example.com",
+                  "password": "string",
+                  "userType": "STAFF",
+                  "roles": "ADMIN",
+                  "isActive": true,
+                  "isVerified": true,
+                  "isOnHold": false
+                },
+                "senderMaxCriticalAmount": {
+                  "currency": {
+                    "currencyName": "Dollar",
+                    "shortName": "USD",
+                    "country": "string"
+                  },
+                  "amount": 0
+                },
+                "receiverMInCriticalAmount": {
+                  "currency": {
+                    "currencyName": "Dollar",
+                    "shortName": "USD",
+                    "country": "string"
+                  },
+                  "amount": 0
+                },
+                "receiverSalaryPerTransaction": {
+                  "currency": {
+                    "currencyName": "Dollar",
+                    "shortName": "USD",
+                    "country": "string"
+                  },
+                  "amount": 0
+                },
+                "senderExchangeRate": [
+                  {
+                    "fromCurrency": {
+                      "currencyName": "Dollar",
+                      "shortName": "USD",
+                      "country": "string"
+                    },
+                    "toCurrency": {
+                      "currencyName": "Dollar",
+                      "shortName": "USD",
+                      "country": "string"
+                    },
+                    "rate": 0
+                  }
+                ],
+                "senderCommissionRate": [
+                  {
+                    "currency": {
+                      "currencyName": "Dollar",
+                      "shortName": "USD",
+                      "country": "string"
+                    },
+                    "rate": 0
+                  }
+                ]
+              },
+              "action": "CREATE",
+              "reason": "string",
+              "date": "2020-09-18T15:46:57.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
